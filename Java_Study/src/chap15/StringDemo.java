@@ -12,6 +12,7 @@ public class StringDemo extends JFrame{
 			
 			g.drawString("문자열을 그려보자!", 20, 20);
 			g.drawString("너만 그리니? 나도 그려 보자!", 50, 50);
+			System.out.println("sex");
 		}
 	}
 	
